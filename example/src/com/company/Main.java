@@ -24,7 +24,7 @@ public class Main {
 
         // Boleano
         boolean vivo = true; // true es en minuscula
-        vivo = false  // false va en
+        vivo = false  // false va en minuscula
 
 
     }
